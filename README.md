@@ -6,4 +6,4 @@
 | **1회** | BTS app | Complete |  |  | **2022.01.07** |
 | **2회** | Twice app | Complete |  |  | **2022.10.08** |
 | **3회** | dice app | Complete |  |  | **2022.01.09** |
-| **4회** |  | Complete |  |  | **2022.01.10** |
+| **4회** | GoodWords app | Complete |  |  | **2022.01.11** |
