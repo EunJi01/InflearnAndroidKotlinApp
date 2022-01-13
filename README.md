@@ -7,3 +7,4 @@
 | **2회** | Twice app | Complete |  |  | **2022.10.08** |
 | **3회** | dice app | Complete |  |  | **2022.01.09** |
 | **4회** | Good Words app | Complete |  |  | **2022.01.11** |
+| **5회** | Trot List app | Complete |  |  | **2022.01.14** |
